@@ -16,12 +16,10 @@ Here are some ideas to get you started:
 -->
 
 
-| [![Jerry's code::stats stats](https://codestats-readme.vercel.app/api?username=jerrychan807&show_icons)](https://github.com/Aviortheking/codestats-readme)  | [![Jerry's GitHub stats](https://github-readme-stats.vercel.app/api?username=jerrychan807&count_private=true&show_icons=true&cache_seconds=1800)](https://github.com/anuraghazra/github-readme-stats) |
-| --- | --- |
-|     |     |
 
+ [![Jerry's GitHub stats](https://github-readme-stats.vercel.app/api?username=jerrychan807&count_private=true&show_icons=true&cache_seconds=1800)](https://github.com/anuraghazra/github-readme-stats) 
 
-|![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jerrychan807&theme=nord_bright) | [![Top Langs](https://codestats-readme.vercel.app/api/top-langs/?username=jerrychan807&language_count=15&&layout=compact)](https://github.com/aviortheking/codestats-readme)  |
+|![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jerrychan807&theme=nord_bright) | ![jerrychan807's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jerrychan807&hide=html,assembly,css,scilab,batchfile&layout=compact&hide_border=true&langs_count=10) |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
 |                                                                                                                                                                        |                                                                                                                   |
 
