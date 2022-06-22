@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Metrics](https://metrics.lecoq.io/jerrychan807?template=classic&base.indepth=false&base.hireable=false&config.timezone=Asia%2FShanghai) 
-![jerrychan807's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jerrychan807&hide=html,assembly,css,scilab,batchfile&layout=compact&hide_border=true&langs_count=10count_private=true&theme=radical&show_icons=true)
+![Metrics](https://metrics.lecoq.io/jerrychan807?template=classic&base.indepth=false&base.hireable=false&config.timezone=Asia%2FShanghai&config.display=large)
+![jerrychan807's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jerrychan807&hide=html,assembly,css,scilab,batchfile&layout=compact&hide_border=true&langs_count=10count_private=true&theme=dark&show_icons=true)
 
