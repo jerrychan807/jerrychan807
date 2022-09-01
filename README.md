@@ -1,4 +1,4 @@
-### Hi 👋
+### Hi 👋🏾👋🏾👋🏾
 
 <!--
 **jerrychan807/jerrychan807** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Metrics](https://metrics.lecoq.io/jerrychan807?template=classic&base.indepth=false&base.hireable=false&config.timezone=Asia%2FShanghai&config.display=large)
-![jerrychan807's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jerrychan807&hide=html,assembly,css,scilab,batchfile&layout=compact&hide_border=true&langs_count=10count_private=true&theme=dark&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jerrychan807&theme=tokyonight&hide=html,javascript,css)
+
+![jerrychan807's GitHub stats](https://github-readme-stats.vercel.app/api?username=jerrychan807&show_icons=true&theme=tokyonight)
 
