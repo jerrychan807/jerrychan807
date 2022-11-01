@@ -1,4 +1,4 @@
-### Hi 👋🏾👋🏾👋🏾
+### Hi 👋🏾👋🏾👋🏾 ![visitor](https://visitor-badge.glitch.me/badge?page_id=jerrychan807.visitor-badge)
 
 <!--
 **jerrychan807/jerrychan807** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![visitor](https://visitor-badge.glitch.me/badge?page_id=jerrychan807.visitor-badge)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jerrychan807&theme=tokyonight&hide=html,javascript,css) ![jerrychan807's GitHub stats](https://github-readme-stats.vercel.app/api?username=jerrychan807&show_icons=true&theme=tokyonight)
 
 ![snake](https://raw.githubusercontent.com/jerrychan807/jerrychan807/main/contribution-snake/github-contribution-grid-snake.svg)
+
+![3d](https://raw.githubusercontent.com/jerrychan807/jerrychan807/main/profile-3d-contrib/profile-night-rainbow.svg)
