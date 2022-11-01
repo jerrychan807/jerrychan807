@@ -13,9 +13,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jerrychan807&theme=tokyonight&hide=html,javascript,css) ![jerrychan807's GitHub stats](https://github-readme-stats.vercel.app/api?username=jerrychan807&show_icons=true&theme=tokyonight)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jerrychan807&theme=tokyonight&hide=html,javascript,css) ![jerrychan807's GitHub stats](https://github-readme-stats.vercel.app/api?username=jerrychan807&show_icons=true&theme=tokyonight)
+-->
+![3d](https://raw.githubusercontent.com/jerrychan807/jerrychan807/main/profile-3d-contrib/profile-night-rainbow.svg)
 ![snake](https://raw.githubusercontent.com/jerrychan807/jerrychan807/main/contribution-snake/github-contribution-grid-snake.svg)
 
-![3d](https://raw.githubusercontent.com/jerrychan807/jerrychan807/main/profile-3d-contrib/profile-night-rainbow.svg)
+
